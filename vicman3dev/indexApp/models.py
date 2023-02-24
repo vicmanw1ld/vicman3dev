@@ -15,4 +15,6 @@ class Blog(models.Model):
     class Meta:
         pass
 
+
+
     
